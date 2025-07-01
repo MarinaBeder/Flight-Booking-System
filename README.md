@@ -13,8 +13,8 @@
 > **using MySQL**
 
 
-> ### Schema of Flight Booking System
-
+> ### Link image of Schema of Flight Booking System
+      https://github.com/MarinaBeder/Flight-Booking-System/blob/main/Schema.JPG
 
 
 ### In this project I integrate Swagger for API documentation.
